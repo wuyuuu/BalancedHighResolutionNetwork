@@ -53,3 +53,4 @@ For more details, please refer to [mmpose](https://github.com/open-mmlab/mmpose)
 
 ## Android Implementation
 
+[GoogleDrive]([https://drive.google.com/open?id=1bdXVmYrSynPLSk5lptvgyQ8fhziobD50](https://drive.google.com/file/d/1ZT-ZRE41sdyjqljN4aMhaFHylQvIbwcH/view?usp=sharing))
