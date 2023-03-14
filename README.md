@@ -51,6 +51,11 @@ python tools/train.py ${CONFIG_FILE} [optional arguments]
 ```
 For more details, please refer to [mmpose](https://github.com/open-mmlab/mmpose).
 
+## Acknowledge
+
+[MMPose](https://github.com/open-mmlab/mmpose).
+[NCNN](https://github.com/Tencent/ncnn)
+
 ## Android Implementation
 
-[GoogleDrive]([https://drive.google.com/open?id=1bdXVmYrSynPLSk5lptvgyQ8fhziobD50](https://drive.google.com/file/d/1ZT-ZRE41sdyjqljN4aMhaFHylQvIbwcH/view?usp=sharing))
+[GoogleDrive](https://drive.google.com/file/d/1ZT-ZRE41sdyjqljN4aMhaFHylQvIbwcH/view?usp=sharing)
