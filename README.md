@@ -4,7 +4,7 @@
 
 This is an official implementation for our work Balanced HRNet. 
 
-System-setup-net-only.pdf
+![an](overview.png)
 
 
 ## Quick Start
