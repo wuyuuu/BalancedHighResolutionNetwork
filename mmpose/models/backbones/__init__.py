@@ -1,4 +1,4 @@
-from .balancedHRNet import BalancedHRNet
+from .BalancedHRNet import BalancedHRNet
 
 __all__ = [
     'BalancedHRNet'
