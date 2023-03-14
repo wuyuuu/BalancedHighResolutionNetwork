@@ -53,7 +53,8 @@ For more details, please refer to [mmpose](https://github.com/open-mmlab/mmpose)
 
 ## Acknowledge
 
-[MMPose](https://github.com/open-mmlab/mmpose).
+[MMPose](https://github.com/open-mmlab/mmpose)
+
 [NCNN](https://github.com/Tencent/ncnn)
 
 ## Android Implementation
