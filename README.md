@@ -11,9 +11,9 @@ This is an official implementation for our work Balanced HRNet.
 
 ### Installation
 
-Please follow the installation process of [mmpose](https://github.com/open-mmlab/mmpose)
+Please follow the installation process of [mmpose](https://github.com/open-mmlab/mmpose).
 
-## Data Preparation
+### Data Preparation
 
 
 **For COCO data**, please download from [COCO download](http://cocodataset.org/#download), 2017 Train/Val is needed for COCO keypoints training and validation.
@@ -37,3 +37,19 @@ ${POSE_ROOT}
                 |-- 000000000632.jpg
                 |-- ... 
 ```
+
+## Training
+
+### Training and testing on COCO dataset
+
+```shell
+# train with a signle GPU
+python tools/train.py ${CONFIG_FILE} [optional arguments]
+
+# train with multiple GPUs
+./tools/dist_train.sh ${CONFIG_FILE} ${GPU_NUM} [optional arguments]
+```
+For more details, please refer to [mmpose](https://github.com/open-mmlab/mmpose).
+
+## Android Implementation
+
