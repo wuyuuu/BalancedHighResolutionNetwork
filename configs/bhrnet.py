@@ -50,7 +50,7 @@ data_cfg = dict(
 model = dict(
     type='AssociativeEmbedding',
     pretrained=None,
-    backbone=dict(type='BiasHRMob', channels=((24,),
+    backbone=dict(type='BalancedHRNet', channels=((24,),
                                               (24, 48),
                                               (24, 48, 96),
                                               (24, 48, 96, 192),),
